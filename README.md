@@ -1,14 +1,14 @@
 # ML-Project
-Réalisé par:
--Kessou Kaouthar
--Hmama Mohammed
--Harmaze Aymane
--Jaaouan Taha
+#Réalisé par:\n
+-Kessou Kaouthar\n
+-Hmama Mohammed\n
+-Harmaze Aymane\n
+-Jaaouan Taha\n
 
-Intitulé du projet :
-Détection du niveau de lisiblité des textes arabes
+#Intitulé du projet :\n
+Détection du niveau de lisiblité des textes arabes\n
 
-Structure du projet: 
+#Structure du projet: 
 -->Dossier du DATA :  1-txt-brute avec 5 sous-dossiers, chaque sous-dossier correspond à un niveau de lisiblité (difficulté).
 -->Deux NoteBook:  
 1- Fonctionnalités: pour l'extraction des features son output est le fihier CSV features, contenant l'ensemble des vecteurs représentatifs des textes
