@@ -1,0 +1,7 @@
+Features : 
+SL =  Le nombre de phrases dans un texte
+WL1  = Le nombre de mots dans un texte
+WL2  = Le nombre de caractères dans un texte
+SC  = Le nombre de stems distincts dans un texte
+LC1  = Le nombre de lemmes distincts dans un texte
+LC2 =  Le nombre de lemmes fréquentes (lemmes apparaissant plus d’une fois) dans un texte
