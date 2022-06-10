@@ -1,9 +1,9 @@
 # ML-Project
 ## Réalisé par:
--Kessou Kaouthar
--Hmama Mohammed
--Harmaze Aymane
--Jaaouan Taha
+- Kessou Kaouthar
+- Hmama Mohammed
+- Harmaze Aymane
+- Jaaouan Taha
 
 ## Intitulé du projet :
 Détection du niveau de lisiblité des textes arabes
